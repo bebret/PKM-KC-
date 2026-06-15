@@ -87,3 +87,7 @@ PKM-KC/
 
 ## Lisensi
 Proyek ini dikembangkan untuk keperluan akademik dan penelitian.
+
+
+## Team Members
+- Vincent Hon
